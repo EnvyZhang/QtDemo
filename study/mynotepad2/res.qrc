@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>images/morty.png</file>
+        <file>images/Copy Icon.jpg</file>
+        <file>images/Cut Icon.jpg</file>
+        <file>images/New Icon.jpg</file>
+        <file>images/Open Icon.jpg</file>
+        <file>images/Paste.png</file>
+        <file>images/Save Icon.jpg</file>
+    </qresource>
+</RCC>
